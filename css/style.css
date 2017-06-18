@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+}
+.panel-heading{
+    font-weight: bold;
+}
+.panel-heading{
+   cursor: pointer;
+}
+em{
+    font-weight: bold;
+}
